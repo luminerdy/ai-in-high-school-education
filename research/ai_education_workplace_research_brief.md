@@ -97,9 +97,8 @@ Presentation use:
 
 Sources:
 
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\PLTW Principles of AI Course Outline.pdf`
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\Principles of AI_Course Resume.pdf`
-- Local notes: `research/pltw_principles_of_ai_notes.md`
+- PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026.
+- Local summary notes: `research/pltw_principles_of_ai_notes.md`
 
 ### 6. Employers expect AI to transform skills, but human skills rise in importance.
 

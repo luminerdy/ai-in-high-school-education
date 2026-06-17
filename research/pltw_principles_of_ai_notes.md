@@ -2,9 +2,9 @@
 
 Source files reviewed:
 
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\PLTW AI Course Outline For AY26-27.pdf`
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\PLTW Principles of AI Course Outline.pdf`
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\Principles of AI_Course Resume.pdf`
+- PLTW, "AI Course Outline For AY26-27"
+- PLTW, "Principles of AI Course Outline"
+- PLTW, "Principles of AI Course Resume"
 
 Note: The two course outline PDFs appear to contain the same April 2026 course outline.
 

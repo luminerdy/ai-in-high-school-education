@@ -142,4 +142,4 @@ Slide bullets:
 - White House. "Advancing Artificial Intelligence Education for American Youth." April 23, 2025. https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
 - Wired. "Most US Teens Use Generative AI. Most of Their Parents Don't Know." September 18, 2024. https://www.wired.com/story/teens-generative-ai-use-schools-parents
 - Pew Research Center teen ChatGPT schoolwork statistic, reported in January 2025 secondary coverage. Use only as a supporting point unless the original Pew page is available for direct citation.
-- PLTW. "Principles of Artificial Intelligence" course outline and course resume, 2026. Local PDFs in `C:\Users\jscot\Downloads\fwpltwaicourseinfo`.
+- PLTW. "Principles of Artificial Intelligence" course outline and course resume, 2026.

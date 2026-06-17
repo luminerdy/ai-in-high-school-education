@@ -156,8 +156,7 @@ This shows that serious AI education is broader than prompt engineering. It incl
 
 Sources:
 
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\PLTW Principles of AI Course Outline.pdf`
-- `C:\Users\jscot\Downloads\fwpltwaicourseinfo\Principles of AI_Course Resume.pdf`
+- PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026.
 - Local notes: `research/pltw_principles_of_ai_notes.md`
 
 The OECD / European Commission / Code.org AI Literacy Framework for primary and secondary education is also relevant because PLTW references it. The draft framework defines AI literacy across knowledge, skills, and attitudes, with competencies around interacting with AI, creating with AI, managing AI, and designing AI.
