@@ -236,6 +236,7 @@ Final line:
 - `research/teacher_handout_draft.md`
 - `research/teacher_questions_ai_future_ethics_detection.md`
 - `research/capstone_project_ai_support.md`
+- `research/ai_competition_ideas.md`
 - `research/workplace_ai_candidate_skills_slide_notes.md`
 - `research/source_matrix.md`
 - `research/reference_audit.md`
