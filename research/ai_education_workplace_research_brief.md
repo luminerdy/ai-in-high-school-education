@@ -1,7 +1,5 @@
 # AI in Education and the Workplace: Research Brief
 
-Working presentation date: June 22, 2026
-
 Audience: Local high school STEM teachers, with possible relevance for middle school.
 
 Working title: "AI in Education and in the Workplace"

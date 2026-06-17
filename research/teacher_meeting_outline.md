@@ -1,4 +1,4 @@
-# June 22 STEM Teacher Meeting Outline v1
+# STEM Teacher Meeting Outline
 
 Title: AI in Education and in the Workplace
 

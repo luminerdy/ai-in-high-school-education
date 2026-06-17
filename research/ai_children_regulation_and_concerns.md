@@ -1,8 +1,6 @@
 # AI For Children: Regulation And Concerns
 
-Date reviewed: June 15, 2026
-
-Purpose: Notes for the June 22 teacher presentation and discussion.
+Purpose: Notes for the teacher presentation and discussion.
 
 ## Short Version
 

@@ -1,7 +1,5 @@
 # Current State of High School GenAI Education
 
-Date reviewed: June 12, 2026
-
 Focus: U.S. high school education, especially generative AI use by students and teachers.
 
 ## Bottom Line

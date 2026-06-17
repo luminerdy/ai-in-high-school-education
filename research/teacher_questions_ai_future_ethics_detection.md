@@ -1,8 +1,6 @@
 # Teacher Questions: Where AI Is Going, Ethics, And Detection
 
-Date reviewed: June 17, 2026
-
-Purpose: Prepare concise answers for likely teacher questions during the June 22 STEM teacher session.
+Purpose: Prepare concise answers for likely teacher questions during the STEM teacher session.
 
 ## Question 1: Where Is AI Going?
 

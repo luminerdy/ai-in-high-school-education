@@ -1,6 +1,6 @@
 # Source Matrix
 
-Purpose: Track usable evidence for the June 22 presentation, "AI in Education and in the Workplace."
+Purpose: Track usable evidence for the presentation, "AI in Education and in the Workplace."
 
 ## Core Sources Reviewed
 

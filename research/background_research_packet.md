@@ -1,10 +1,8 @@
 # Background Research Packet: AI In Education And The Workplace
 
-Date: June 17, 2026
-
 Audience: Local high school STEM teachers
 
-Use: Background details and source-backed claims for the June 22 meeting.
+Use: Background details and source-backed claims for the teacher discussion.
 
 ## Working Thesis
 

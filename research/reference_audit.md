@@ -1,7 +1,5 @@
 # Reference Audit
 
-Date: June 17, 2026
-
 Purpose: Check the references used in the AI education research notes and identify which are strong anchors, which should be used with caution, and which were cleaned up.
 
 ## Strong Anchor References
@@ -40,7 +38,7 @@ Use these as support for "detectors are not enough."
 | Pew teen ChatGPT schoolwork statistic: 26% in 2024, up from 13% in 2023 | The original Pew page was not directly retrievable during this audit, though the statistic is widely reported. | Use as a supporting point, not the central adoption statistic, unless you can cite Pew directly. |
 | Exact TeachAI state guidance count | Policy tracker changes over time. | Say "many states" unless you recheck the tracker the day before the presentation. |
 | Vendor workplace reports | Microsoft has a commercial stake in AI adoption. | Cite transparently and pair with WEF/RAND/government sources. |
-| Local policy claims | Local district/state guidance has not been verified. | Do not imply local policy details unless you confirm them before Monday. |
+| Local policy claims | Local district/state guidance has not been verified. | Do not imply local policy details unless you confirm them before presenting. |
 
 ## References Removed Or Replaced
 

@@ -1,6 +1,6 @@
 # AI Support For Student Projects And Capstones
 
-Purpose: Add a project/capstone-focused section to the June 22 STEM teacher discussion.
+Purpose: Add a project/capstone-focused section to the STEM teacher discussion.
 
 ## Core Point
 

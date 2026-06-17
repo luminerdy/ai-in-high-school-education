@@ -1,6 +1,6 @@
 # Local Input Guide
 
-Purpose: Gather quick local context before the June 22 presentation.
+Purpose: Gather quick local context before the teacher presentation.
 
 Use this for short conversations with STEM teachers, administrators, counselors, students, or local employers. Even 5-8 conversations can make the presentation much stronger.
 

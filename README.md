@@ -1,6 +1,6 @@
 # AI In High School Education
 
-Research and planning materials for a June 22, 2026 discussion with local high school STEM teachers about AI in education and the workplace.
+Research and planning materials for a discussion with local high school STEM teachers about AI in education and the workplace.
 
 ## Session Summary
 
@@ -228,14 +228,14 @@ Final line:
 
 ## Research And Planning Files
 
-- `research/recommended_monday_outline_june17.md`
-- `research/teacher_meeting_outline_june22_v1.md`
-- `research/background_research_packet_june17.md`
+- `research/recommended_stem_teacher_outline.md`
+- `research/teacher_meeting_outline.md`
+- `research/background_research_packet.md`
 - `research/current_state_high_school_genai.md`
-- `research/gap_analysis_june17.md`
-- `research/teacher_handout_draft_june17.md`
+- `research/gap_analysis.md`
+- `research/teacher_handout_draft.md`
 - `research/teacher_questions_ai_future_ethics_detection.md`
 - `research/capstone_project_ai_support.md`
 - `research/workplace_ai_candidate_skills_slide_notes.md`
 - `research/source_matrix.md`
-- `research/reference_audit_june17.md`
+- `research/reference_audit.md`

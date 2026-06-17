@@ -1,8 +1,4 @@
-# Recommended Monday Outline: STEM Teachers And AI
-
-Date: June 17, 2026
-
-Meeting date: Monday, June 22, 2026
+# Recommended Outline: STEM Teachers And AI
 
 Session length: 60 minutes
 
@@ -292,4 +288,3 @@ One page:
 | 35-50 | Share-out |
 | 50-55 | Capstone / AI Quest connection if not already discussed |
 | 55-60 | Closing question and next step |
-

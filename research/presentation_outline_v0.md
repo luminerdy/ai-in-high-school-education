@@ -4,8 +4,6 @@ Title: AI in Education and in the Workplace
 
 Audience: High school STEM teachers
 
-Date: June 22, 2026
-
 Recommended length: 35-45 minutes plus discussion
 
 ## Core Message

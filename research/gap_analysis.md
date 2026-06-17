@@ -1,8 +1,6 @@
-# Gap Analysis: June 22 STEM Teacher Presentation
+# Gap Analysis: STEM Teacher Presentation
 
-Date: June 17, 2026
-
-Purpose: Review the current research and planning files, identify missing or underweighted points, and clarify what should be emphasized for Monday.
+Purpose: Review the current research and planning files, identify missing or underweighted points, and clarify what should be emphasized in the teacher discussion.
 
 ## Current Strengths
 
@@ -190,4 +188,3 @@ Title: What Changes For STEM Teachers?
 | Detection can identify misconduct | Detection is weak; process evidence matters |
 | Tools are separate from assignments | AI is becoming embedded in workflows |
 | Students need correct answers | Students need verification, explanation, and judgment |
-
