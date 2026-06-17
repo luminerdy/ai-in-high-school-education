@@ -1,0 +1,134 @@
+# Source Matrix
+
+Purpose: Track usable evidence for the June 22 presentation, "AI in Education and in the Workplace."
+
+## Core Sources Reviewed
+
+| Source | Type | Most Useful Finding | Presentation Use | Caveat |
+|---|---|---|---|---|
+| White House, "Advancing Artificial Intelligence Education for American Youth," April 23, 2025 | Federal executive order | Federal policy now explicitly promotes AI literacy, educator training, K-12 AI resources, AI-related apprenticeships, high school courses/certifications, and workforce pathways. | Use in opening "why now" section; connects K-12 AI education to future workforce readiness. | Policy direction does not prove classroom effectiveness. Treat as policy signal, not evidence of impact. |
+| U.S. Department of Education, "Artificial Intelligence and the Future of Teaching and Learning," May 2023 | Federal education report | AI in education should center humans, advance equity, ensure safety/effectiveness, promote transparency, and keep humans in instructional decision loops. | Use as ethical framework: human in the loop, teacher judgment, privacy, transparency, bias, explainable and overridable AI. | Published in 2023, before many newer tools; still conceptually strong but not the latest adoption data. |
+| TeachAI, "AI Guidance for Schools Toolkit," 2025 | K-12 guidance toolkit | Schools need guidance that addresses benefits, risks, academic integrity, privacy, responsible use, AI literacy, stakeholder communication, and ongoing feedback. | Use for practical teacher/school guidance; can support a "what local districts should do" slide. | Not a government mandate; toolkit is adaptable guidance. |
+| TeachAI, "AI in Education Policy and Guidance Tracker" | Policy tracker | As of review, tracker listed many U.S. state AI education guidance documents, showing rapid but fragmented policy development. | Use to show that states are moving, but unevenly. | Tracker changes over time; recheck before final deck. |
+| RAND, "Uneven Adoption of Artificial Intelligence Tools Among U.S. Teachers and Principals," 2025 | Nationally representative educator survey | 25% of teachers and nearly 60% of principals reported using AI in 2023-2024; only 18% of principals reported school/district AI guidance; high-poverty schools had less guidance. | Use for a high-value data slide: AI use is already happening, but guidance lags and equity gaps matter. | Data are from 2023-2024, so likely understate 2026 adoption. |
+| PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026 | Curriculum source | PLTW's semester course includes responsible use, prompt/context engineering, data, classifiers, model training, bias, human-in-the-loop workflows, automation pressure, app design, and planning for AI mistakes. | Use as the concrete high school model. Connect it to STEM practices and workplace skills. | PLTW course details are labeled subject to change; local availability may vary. |
+| World Economic Forum, "Future of Jobs Report 2025" | Employer survey and workforce forecast | Employers expect AI and information processing to transform business; fastest-growing skills include AI/big data, cybersecurity, and technological literacy; analytical thinking remains the top core skill; skill gaps are a major barrier. | Use for workplace section and to argue that human skills and technical literacy both matter. | Global employer sample, not U.S.-only and not education-specific. |
+| Microsoft WorkLab, "2026 Work Trend Index Annual Report" | Workplace survey and telemetry report | AI users report shifting toward high-value work, quality control, and critical thinking; 86% say AI output is a starting point, not final answer; organizational support matters. | Use to translate workplace AI into classroom norms: set intent, evaluate output, verify, revise, own the answer. | Microsoft has a commercial stake in AI adoption. Treat as useful workplace signal, not neutral public research. |
+
+## Candidate Sources To Verify Next
+
+| Candidate | Why It Matters | Status |
+|---|---|---|
+| College Board survey on high school student generative AI use | News coverage cites high school AI use around 79%-84% in 2025; original source would be powerful for opening slide. | Need original report before using as anchor evidence. |
+| Common Sense Media teen AI companion/chatbot research | Important for middle school/high school risks beyond schoolwork: companionship, safety, emotional reliance, digital literacy. | Need original report and methodology. |
+| Pew Research Center AI and work / AI and teens | Strong public-opinion source if available for teens, parents, workers, or school use. | Need relevant original reports. |
+| CSTA 2026 standards | PLTW says course aligns with CSTA 2026 standards. Need direct standards language for AI/computing. | Need original standards source. |
+| State AI guidance for the user's local state | Local teachers will care what their state or district is already saying. | Need location or infer later if known. |
+| Local district AI policies | Strong for audience relevance. | Need district names. |
+| Local employer examples | Strong for workplace relevance. | Need interviews or regional workforce sources. |
+
+## Evidence Organized By Presentation Claim
+
+### Claim: AI is already a policy and workforce priority.
+
+Supporting sources:
+
+- White House executive order
+- WEF Future of Jobs Report
+- Microsoft Work Trend Index
+
+Teacher-facing implication:
+
+Students will enter workplaces where AI use is expected in many roles, but the valuable skill is responsible direction and evaluation, not blind output generation.
+
+### Claim: Schools are still catching up.
+
+Supporting sources:
+
+- RAND educator survey
+- TeachAI toolkit
+- TeachAI policy tracker
+
+Teacher-facing implication:
+
+Teachers need shared norms and district support. Leaving every teacher to invent AI policy alone is inequitable and exhausting.
+
+### Claim: AI literacy is interdisciplinary.
+
+Supporting sources:
+
+- PLTW course outline and course resume
+- White House executive order
+- TeachAI toolkit
+
+Teacher-facing implication:
+
+AI literacy can be taught through science, engineering, computer science, math, and career exploration. It is not only a standalone computer science topic.
+
+### Claim: Human judgment becomes more important as AI improves.
+
+Supporting sources:
+
+- U.S. Department of Education report
+- Microsoft Work Trend Index
+- WEF Future of Jobs Report
+- PLTW course resume
+
+Teacher-facing implication:
+
+Assignments should require students to show judgment: what they asked, what they accepted, what they rejected, what they verified, and what they still think themselves.
+
+### Claim: Equity is about guidance, not only devices.
+
+Supporting sources:
+
+- RAND educator survey
+- U.S. Department of Education report
+- TeachAI toolkit
+
+Teacher-facing implication:
+
+Without explicit guidance and teacher support, students with more outside support may learn effective AI use while others get only restriction, surveillance, or confusion.
+
+## Slide Ideas Generated From Sources
+
+1. "AI is already in the system"
+   - White House EO + RAND teacher/principal use.
+
+2. "What the workplace is asking for"
+   - WEF fastest-growing skills + analytical thinking.
+
+3. "The new human role"
+   - Microsoft quality control, critical thinking, AI output as starting point.
+
+4. "What schools are trying"
+   - TeachAI tracker + PLTW course structure.
+
+5. "What AI readiness looks like in STEM"
+   - PLTW skills: data, models, prompt engineering, bias, documentation, teamwork.
+
+6. "The risk list teachers actually need"
+   - Privacy, bias, hallucination, academic integrity, overreliance, surveillance, inequitable guidance.
+
+7. "Practical classroom norm"
+   - Use AI to extend thinking; require human proof of thinking; keep human-only moments.
+
+## Working Source Priority
+
+Highest priority for final deck:
+
+1. RAND
+2. U.S. Department of Education
+3. PLTW
+4. WEF
+5. TeachAI
+6. Microsoft Work Trend Index
+7. Student-use survey once original source is verified
+
+## Notes For Research Integrity
+
+- Separate three kinds of evidence: policy direction, survey/adoption data, and curriculum examples.
+- Do not overstate workplace job-loss predictions. Frame as task change, skill change, and uncertainty.
+- Distinguish "AI exposure" from actual replacement.
+- Prefer original reports over news summaries whenever possible.
+- When using vendor research, name the source and possible incentive.
