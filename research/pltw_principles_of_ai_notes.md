@@ -1,169 +1,63 @@
 # PLTW Principles of Artificial Intelligence Notes
 
-Source files reviewed:
+Purpose: Capture a high-level, presentation-safe summary of PLTW's Principles of Artificial Intelligence course information without republishing detailed PLTW course-outline content.
 
-- PLTW, "AI Course Outline For AY26-27"
-- PLTW, "Principles of AI Course Outline"
-- PLTW, "Principles of AI Course Resume"
+## Publishing Guidance
 
-Note: The two course outline PDFs appear to contain the same April 2026 course outline.
+Do not publish PLTW PDFs or reproduce detailed PLTW course sequencing, lesson titles, activity titles, day counts, or proprietary course language in this public repository.
 
-## Course Snapshot
+Use PLTW only as a referenced example of where high school AI education is heading. For official details, direct interested teachers or administrators to Project Lead The Way.
 
-PLTW's Principles of Artificial Intelligence is a semester-long, 80-day high school course. It is built around hands-on, structured individual and group problem-solving. The course introduces foundations of AI, societal and ethical impact, prompt engineering, data classification, model training, and applied AI projects.
+Suggested citation language:
 
-The course emphasizes transportable skills alongside technical content:
+> Project Lead The Way, Principles of Artificial Intelligence course information, 2026. See PLTW for official course details.
 
-- Collaboration
-- Communication
-- Ethical reasoning
-- Documentation
-- Teamwork
-- Creative problem-solving
+## High-Level Summary
 
-The outline says the course is aligned with the AI Literacy Framework, "Empowering Learners for the Age of AI: An AI Literacy Framework for Primary and Secondary Education," a joint European Commission and OECD initiative. It also references the Computer Science Teachers Association national standards for 2026.
+PLTW's Principles of Artificial Intelligence appears to be a high school course focused on AI literacy through hands-on, project-based learning. At a high level, the course emphasizes:
 
-## Course Structure
+- responsible and ethical AI use
+- academic use of AI
+- prompt and context engineering
+- data collection, organization, cleaning, and visualization
+- classifiers, models, and model training
+- bias and fairness in data and algorithms
+- human-in-the-loop workflows
+- automation pressure and failure planning
+- AI-supported problem solving
+- communication, documentation, collaboration, and ethical reasoning
 
-### Unit 1: Foundations of Artificial Intelligence
+The course is useful as a concrete example because it frames AI readiness as broader than "prompting." It connects technical understanding, responsible use, data literacy, project work, and workplace-style professional skills.
 
-Duration: 38 days
+## Presentation Use
 
-Major themes:
+Use PLTW to support this point:
 
-- Evolution of AI
-- Ethical and responsible AI use
-- Academic use of AI
-- Prompt engineering
-- Data collection and organization
-- Classifiers
-- Model training
-- Learning with AI
+> Serious high school AI education is not just tool use. It includes data, models, ethics, communication, documentation, verification, and human judgment.
 
-Lessons:
+Possible speaker language:
 
-- Lesson 1.1: Responsible Use of AI, 16 days
-- Lesson 1.2: All About Data, 17 days
-- Lesson 1.3: Learning with AI, 5 days
+> PLTW's AI course information is a useful signal. It treats AI as an interdisciplinary, project-based topic: responsible use, data, model behavior, bias, human oversight, documentation, and collaboration. That is much closer to what AI work looks like in the workplace than simple prompt writing.
 
-Notable activities and projects:
+## Connection To STEM Teachers
 
-- Is AI My Friend?
-- Responsible Academic Use
-- Where Does AI Get Its Information?
-- Introduction to Prompt Engineering
-- What a Ripoff
-- Responding in Real Time
-- But Does it Understand?
-- Creating with AI
-- Using AI to Help Us Understand
-- Learning with AI
+STEM teachers can borrow the broad structure without adopting or reproducing PLTW materials:
 
-Presentation relevance:
-
-This unit is strong evidence that AI education is not just tool training. PLTW frames AI literacy as a blend of responsible use, data understanding, model behavior, authorship, bias, and student collaboration with AI.
-
-### Unit 2: Intelligence in Practice
-
-Duration: The first page says 42 days, while the Unit 2 page lists 40 days and lesson totals that add to 42 days. Treat the exact count as subject to change.
-
-Major themes:
-
-- How AI generates responses
-- Pattern recognition in data
-- Prompt and context engineering
-- Supervised learning
-- Bias from data
-- AI-powered app design
-- Human judgment and AI decision-making
-- AI in hiring and healthcare
-- Automation pressure
-- Human-centered AI workflows
-- Planning for AI mistakes
-- Algorithmic thinking and code
-
-Lessons:
-
-- Lesson 2.1: Training Models, 19 days
-- Lesson 2.2: Impact of AI, 13 days
-- Lesson 2.3: AI in Action, 10 days
-
-Notable activities and projects:
-
-- A Small Language Model
-- Prompt and Context Engineering
-- How Does AI Find Answers?
-- AI and Social Media
-- Data Feeds the Machine
-- Create Your Own App
-- Humans in the Loop
-- Planning with AI
-- Automation Pressure
-- Plan for AI Mistakes
-- The AI of Nim
-- AI in Action
-
-Presentation relevance:
-
-This unit maps directly to the workplace theme. Students examine AI in decision-making contexts, learn that automation creates failure modes, and design workflows that keep humans meaningfully involved.
-
-## Skills From Course Resume
-
-Technical and computational skills:
-
-- Data collection and processing
-- Data cleaning for AI modeling and machine learning
-- Data analysis and visualization
-- Abstraction
-- Computing innovations
-- Algorithms and classifiers
-- Data models and simulations
-- Use of text, sound, image, sensor, and large datasets
-
-AI-specific skills:
-
-- Understand AI evolution, capabilities, and ethical implications
-- Apply prompt engineering
-- Use LLMs, AI agents, and chatbots
-- Explore bias and fairness in data and algorithms
-- Use Google Teachable Machine
-- Create AI-supported solutions
-
-Professional and workplace skills:
-
-- Presentation and communication
-- Documentation
-- Teamwork and collaboration
-- Ethical reasoning
-- Inclusive, safe, collaborative computing culture
-- Agile project development
-- Iterative testing
-- Storyboarding and narrative design
-
-## How To Use This In The June 22 Presentation
-
-Recommended slide placement:
-
-1. Use PLTW as a "what schools are starting to do" example.
-2. Show the course structure as a concrete model for AI literacy in high school.
-3. Connect Unit 1 to responsible classroom use and academic integrity.
-4. Connect Unit 2 to workplace readiness: human-in-the-loop workflows, automation pressure, app design, bias, and failure planning.
-5. Use the course resume skills as evidence that AI readiness combines technical, ethical, communication, and collaboration skills.
-
-Possible speaker point:
-
-"One thing I like about the PLTW outline is that it does not treat AI as just prompt writing. Students work with data, classifiers, model behavior, ethics, documentation, teamwork, and failure planning. That is much closer to what AI work looks like in the workplace."
+- teach students to understand where AI output comes from
+- require evidence and verification
+- connect AI to data quality and model limitations
+- include responsible use and academic integrity
+- ask students to document AI-supported work
+- use projects where students must define goals, test outputs, revise, and defend decisions
 
 ## Questions For Local STEM Teachers
 
-- Could this be a standalone semester course, or should pieces be embedded into existing STEM classes?
-- Which pieces belong in middle school or early high school before students reach a PLTW course?
-- Where do current STEM assignments already overlap with AI literacy: data, modeling, evidence, debugging, documentation, communication?
-- What local policies would teachers need before assigning AI-supported work?
-- What examples from local employers could connect this course to workplace readiness?
+- Should AI literacy be a standalone course, embedded across STEM classes, or both?
+- Which AI literacy concepts belong before high school?
+- Where do current STEM assignments already teach data, modeling, evidence, debugging, documentation, and communication?
+- What local policy or tool guidance would teachers need before assigning AI-supported work?
+- What local employer examples could connect AI literacy to workplace readiness?
 
-## Suggested Presentation Takeaway
+## Suggested Takeaway
 
-PLTW's course suggests a useful definition of AI readiness for high school students:
-
-Students should understand how AI systems use data, how to collaborate with AI responsibly, how to evaluate AI output, how bias and automation failures happen, and how to communicate and document their process while solving real problems.
+High school AI readiness should mean students understand how AI systems use data, how to collaborate with AI responsibly, how to evaluate AI output, how bias and automation failures can happen, and how to communicate and document their process while solving real problems.

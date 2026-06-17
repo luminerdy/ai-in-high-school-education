@@ -85,9 +85,9 @@ Sources:
 
 ### 5. PLTW provides a concrete high school model for AI literacy.
 
-PLTW's Principles of Artificial Intelligence is an 80-day semester course. It includes responsible AI use, academic use, prompt engineering, data collection and cleaning, classifiers, model training, supervised learning, bias, human-in-the-loop decisions, automation pressure, app design, and planning for AI mistakes.
+PLTW's Principles of Artificial Intelligence course information provides a useful high-level example of AI literacy as a hands-on, project-based high school topic. It appears to emphasize responsible AI use, academic use, prompt and context engineering, data literacy, model behavior, bias and fairness, human-in-the-loop thinking, automation risks, and AI-supported problem solving.
 
-The course resume emphasizes data analysis, visualization, prompt engineering, bias and fairness, LLMs, agents/chatbots, sensors, Teachable Machine, communication, documentation, teamwork, and ethical reasoning.
+The course information also points toward workplace-relevant skills such as data analysis, visualization, communication, documentation, teamwork, and ethical reasoning.
 
 Presentation use:
 
@@ -97,7 +97,7 @@ Presentation use:
 
 Sources:
 
-- PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026.
+- PLTW, "Principles of Artificial Intelligence" course information, 2026. See PLTW for official course details.
 - Local summary notes: `research/pltw_principles_of_ai_notes.md`
 
 ### 6. Employers expect AI to transform skills, but human skills rise in importance.
@@ -148,7 +148,7 @@ Source:
 
 Evidence:
 
-- PLTW includes data, classifiers, supervised learning, app design, bias, academic use, prompt/context engineering, and human-centered workflows.
+- PLTW course information points toward data literacy, model behavior, bias, academic use, prompt/context engineering, and human-centered workflows.
 - The White House EO explicitly calls for AI skills across K-12, workforce development, apprenticeships, certifications, and high school opportunities.
 - WEF identifies AI/big data and technological literacy as fast-growing skills, but also emphasizes analytical thinking and resilience.
 
@@ -162,7 +162,7 @@ Evidence:
 
 - AI systems can produce incorrect or inappropriate output, and the Department of Education warns of risks around inaccurate output and automated decisions.
 - Microsoft found users themselves identify quality control and critical thinking as top human skills when using AI.
-- PLTW asks students to evaluate AI output for bias or harmful content and document collaboration with AI.
+- PLTW course information points toward evaluation of AI output, responsible collaboration with AI, and documentation.
 
 Possible slide title:
 

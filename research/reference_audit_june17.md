@@ -15,6 +15,7 @@ Use these confidently in the presentation.
 | TeachAI, "AI Guidance for Schools Toolkit," 2025 | Verified | Strong practical guidance source for school/district/teacher AI guidance, policy review, professional learning, and parent/student communication. |
 | TeachAI Policy Tracker | Verified | Good for showing that state guidance is expanding. Recheck exact state count before using a precise number in slides. |
 | Common Sense Media, "The Dawn of the AI Era," Sept. 18, 2024 | Verified | Primary source page confirms seven in ten youth had used at least one type of GenAI tool and emphasizes schoolwork use plus parent/school communication gaps. |
+| PLTW, "Principles of Artificial Intelligence" course information, 2026 | Local source reviewed, not publicly redistributed | Use only as a high-level referenced example. Do not publish PDFs or detailed lesson/activity sequencing in the public repo. |
 | Microsoft Work Trend Index 2026 | Verified | Primary source confirms 2026 report, 20,000 AI-using workers surveyed, 49% cognitive-work Copilot conversations, quality control/critical thinking, and "starting point, not final answer" findings. Vendor source, so cite transparently. |
 | World Economic Forum, "Future of Jobs Report 2025" | Verified | Official report page. Use for broad employer/workforce trends; remember it is global, not U.S.-only. |
 | NIST AI Risk Management Framework | Verified | Official .gov page. Strong for risk management and trustworthy AI framing. |

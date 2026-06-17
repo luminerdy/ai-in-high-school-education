@@ -11,7 +11,7 @@ Purpose: Track usable evidence for the June 22 presentation, "AI in Education an
 | TeachAI, "AI Guidance for Schools Toolkit," 2025 | K-12 guidance toolkit | Schools need guidance that addresses benefits, risks, academic integrity, privacy, responsible use, AI literacy, stakeholder communication, and ongoing feedback. | Use for practical teacher/school guidance; can support a "what local districts should do" slide. | Not a government mandate; toolkit is adaptable guidance. |
 | TeachAI, "AI in Education Policy and Guidance Tracker" | Policy tracker | As of review, tracker listed many U.S. state AI education guidance documents, showing rapid but fragmented policy development. | Use to show that states are moving, but unevenly. | Tracker changes over time; recheck before final deck. |
 | RAND, "Uneven Adoption of Artificial Intelligence Tools Among U.S. Teachers and Principals," 2025 | Nationally representative educator survey | 25% of teachers and nearly 60% of principals reported using AI in 2023-2024; only 18% of principals reported school/district AI guidance; high-poverty schools had less guidance. | Use for a high-value data slide: AI use is already happening, but guidance lags and equity gaps matter. | Data are from 2023-2024, so likely understate 2026 adoption. |
-| PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026 | Curriculum source | PLTW's semester course includes responsible use, prompt/context engineering, data, classifiers, model training, bias, human-in-the-loop workflows, automation pressure, app design, and planning for AI mistakes. | Use as the concrete high school model. Connect it to STEM practices and workplace skills. | PLTW course details are labeled subject to change; local availability may vary. |
+| PLTW, "Principles of Artificial Intelligence" course information, 2026 | Curriculum source | PLTW's course information points toward AI literacy as responsible use, prompt/context engineering, data literacy, model behavior, bias, human-in-the-loop workflows, automation risks, and AI-supported problem solving. | Use as a high-level example of where high school AI education is heading. Direct readers to PLTW for official details. | Do not republish detailed PLTW course-outline content or PDFs in the public repo. |
 | World Economic Forum, "Future of Jobs Report 2025" | Employer survey and workforce forecast | Employers expect AI and information processing to transform business; fastest-growing skills include AI/big data, cybersecurity, and technological literacy; analytical thinking remains the top core skill; skill gaps are a major barrier. | Use for workplace section and to argue that human skills and technical literacy both matter. | Global employer sample, not U.S.-only and not education-specific. |
 | Microsoft WorkLab, "2026 Work Trend Index Annual Report" | Workplace survey and telemetry report | AI users report shifting toward high-value work, quality control, and critical thinking; 86% say AI output is a starting point, not final answer; organizational support matters. | Use to translate workplace AI into classroom norms: set intent, evaluate output, verify, revise, own the answer. | Microsoft has a commercial stake in AI adoption. Treat as useful workplace signal, not neutral public research. |
 
@@ -57,7 +57,7 @@ Teachers need shared norms and district support. Leaving every teacher to invent
 
 Supporting sources:
 
-- PLTW course outline and course resume
+- PLTW course information
 - White House executive order
 - TeachAI toolkit
 
@@ -72,7 +72,7 @@ Supporting sources:
 - U.S. Department of Education report
 - Microsoft Work Trend Index
 - WEF Future of Jobs Report
-- PLTW course resume
+- PLTW course information
 
 Teacher-facing implication:
 

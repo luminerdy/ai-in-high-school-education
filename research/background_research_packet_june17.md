@@ -136,19 +136,17 @@ Source:
 
 ## AI Literacy And Curriculum
 
-PLTW's Principles of Artificial Intelligence course for AY26-27 provides a concrete high school model:
+PLTW's Principles of Artificial Intelligence course information for AY26-27 provides a concrete high-level example of where high school AI education is heading:
 
-- semester-long, 80-day course
 - responsible academic use
 - prompt/context engineering
-- data collection, cleaning, and visualization
-- classifiers and model training
-- supervised learning
+- data literacy
+- models and model behavior
 - bias and fairness
-- AI apps
 - human-in-the-loop workflows
-- automation pressure
-- planning for AI mistakes
+- automation risks
+- AI-supported problem solving
+- communication and documentation
 
 Presentation use:
 
@@ -156,7 +154,7 @@ This shows that serious AI education is broader than prompt engineering. It incl
 
 Sources:
 
-- PLTW, "Principles of Artificial Intelligence" course outline and course resume, 2026.
+- PLTW, "Principles of Artificial Intelligence" course information, 2026. See PLTW for official course details.
 - Local notes: `research/pltw_principles_of_ai_notes.md`
 
 The OECD / European Commission / Code.org AI Literacy Framework for primary and secondary education is also relevant because PLTW references it. The draft framework defines AI literacy across knowledge, skills, and attitudes, with competencies around interacting with AI, creating with AI, managing AI, and designing AI.

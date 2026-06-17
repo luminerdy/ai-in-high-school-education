@@ -72,8 +72,8 @@ Interpretation for the presentation:
 AI education is emerging in three forms:
 
 1. Standalone AI courses
-   - Example: PLTW's Principles of Artificial Intelligence, an 80-day semester course for AY26-27.
-   - Topics include responsible use, prompt/context engineering, data, classifiers, model training, bias, human-in-the-loop workflows, automation pressure, app design, and planning for AI mistakes.
+   - Example: PLTW's Principles of Artificial Intelligence course information for AY26-27.
+   - High-level themes include responsible use, prompt/context engineering, data literacy, model behavior, bias, human-in-the-loop thinking, automation risks, and AI-supported problem solving.
 
 2. AI literacy modules inside existing courses
    - STEM, English, social studies, computer science, and CTE courses can include AI critique, source verification, AI-assisted drafting, data analysis, and ethical reasoning.
@@ -142,4 +142,4 @@ Slide bullets:
 - White House. "Advancing Artificial Intelligence Education for American Youth." April 23, 2025. https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
 - Wired. "Most US Teens Use Generative AI. Most of Their Parents Don't Know." September 18, 2024. https://www.wired.com/story/teens-generative-ai-use-schools-parents
 - Pew Research Center teen ChatGPT schoolwork statistic, reported in January 2025 secondary coverage. Use only as a supporting point unless the original Pew page is available for direct citation.
-- PLTW. "Principles of Artificial Intelligence" course outline and course resume, 2026.
+- PLTW. "Principles of Artificial Intelligence" course information, 2026. See PLTW for official course details.
