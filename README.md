@@ -1,63 +1,31 @@
 # AI In High School Education
 
-Research and planning materials for a discussion with local high school STEM teachers about AI in education and the workplace.
-
-## Session Summary
-
-Title:
-
-**AI in Education and the Workplace: Practical Guidance for STEM Teachers**
-
-Audience:
-
-Local high school STEM teachers.
-
-Format:
-
-60 minutes total: 18-20 minute framing presentation, 35 minute teacher discussion, 5 minute close.
-
-Purpose:
-
-Help STEM teachers decide how AI should be used in assignments, projects, capstones, competitions, and student skill development.
+Planning materials for a discussion with local high school STEM teachers about AI in education, STEM learning, and workplace readiness.
 
 ## Core Message
 
 AI makes production easier and evaluation harder.
 
-The workplace does not need students who can merely get AI to produce output. It needs people who can define problems, communicate clearly, verify results, notice failure, document decisions, and take responsibility for outcomes.
+Students need to learn how to use AI without outsourcing their thinking. For STEM teachers, the practical question is:
 
-For teachers, the practical question is not simply whether students used AI. The better question is:
+> What role did AI play, and what evidence shows the student still understands?
 
-> What role did AI play in the thinking, and what evidence shows the student still understands?
+## Short Talk Structure
 
-## Recommended Session Flow
+| Segment | Point |
+|---|---|
+| Opening | "Used AI" is too vague. Ask how it was used. |
+| AI shift | AI is moving from answers to workflows and agents. |
+| Workplace need | Employers need judgment, verification, communication, and accountability. |
+| STEM connection | Models, data, assumptions, units, tests, and evidence matter more than ever. |
+| Assignment shift | Finished work is not enough; students must show visible thinking. |
+| Practical guidance | Use AI-prohibited, AI-limited, and AI-allowed categories. |
+| Projects | AI can reduce friction in capstones, robotics, and app building, but students still own the work. |
+| Close | Change one assignment so students show thinking, not just output. |
 
-| Time | Segment | Goal |
-|---:|---|---|
-| 0-5 | Opening question | Surface the ambiguity of "using AI" |
-| 5-20 | Framing presentation | Give shared language and workplace context |
-| 20-35 | Assignment redesign activity | Apply ideas to actual STEM assignments |
-| 35-50 | Share-out | Identify common teacher impact areas |
-| 50-55 | AI Quest / capstone connection | Connect to projects, competitions, camps, and mentoring |
-| 55-60 | Close | Name one practical next step |
+## AI Use Ladder
 
-## Presentation Outline
-
-### 1. Opening Question
-
-Ask:
-
-> When someone says a student used AI, what could that mean?
-
-Expected answers include copying an answer, asking for an explanation, debugging code, brainstorming, editing writing, checking work, generating slides, or planning a project.
-
-Bridge to workplace:
-
-> "Do you use AI?" is not the useful question. The useful question is: how, for what task, with what verification, and who is accountable?
-
-### 2. AI Use Ladder
-
-| Level | AI Role | Learning Concern |
+| Level | AI Role | Learning Risk |
 |---|---|---|
 | 0 | Copy answer | Replaces thinking |
 | 1 | Q&A | May help or bypass |
@@ -65,179 +33,51 @@ Bridge to workplace:
 | 3 | Tutor | Student practices with support |
 | 4 | Critic/reviewer | Student revises and evaluates |
 | 5 | Workflow assistant | Student manages process |
-| 6 | Agentic workflow | AI plans/tests/revises under human guardrails |
+| 6 | Agentic workflow | AI plans/tests/revises under guardrails |
 
-Key line:
+## What Students Should Show
 
-> The question is not whether AI was used. The question is what role AI played in the thinking.
+When AI is allowed, students should show some evidence of thinking:
 
-### 3. Where AI Is Going
+- goal, constraints, and assumptions
+- AI-use summary
+- sources, calculations, tests, or unit checks
+- what AI got wrong
+- what the student changed
+- remaining risk or limitation
+- short explanation or oral defense
 
-AI is moving from answers to workflows:
-
-- text, code, images, audio, video, data, and tool use
-- planning, testing, revising, and acting
-- agents that can complete steps with less human prompting
-
-Teacher translation:
-
-Students need supervision, verification, and accountability, not just prompting.
-
-### 4. Workplace Need
-
-Employers need AI judgment, not vague AI use.
-
-Candidate capabilities:
-
-- problem framing
-- clear communication
-- domain knowledge
-- verification
-- revision judgment
-- privacy and safety
-- accountability
-- ethical reasoning
-- adaptability
-
-Key line:
-
-> The workplace needs people who can define the problem, use AI appropriately, verify the result, communicate clearly, and own the decision.
-
-### 5. What STEM Teachers Already Teach
-
-AI makes STEM thinking more important:
-
-- models are simplifications
-- data quality matters
-- assumptions matter
-- units matter
-- evidence beats confidence
-- constraints shape design
-- testing reveals failure
-- code must be explained and verified
-
-Key line:
-
-> AI often fails in exactly the places STEM teachers already care about.
-
-### 6. Assignment Evidence Has Changed
-
-Old assumption:
-
-Finished assignments usually showed learning.
-
-New problem:
-
-Finished work may show production, but not understanding.
-
-Shift:
-
-From product only to visible thinking.
-
-Examples of visible thinking:
-
-- prompt/use log
-- source check
-- assumptions
-- rough work
-- lab data
-- test cases
-- error analysis
-- revision notes
-- oral defense
-- rejected AI suggestions
-
-Key line:
-
-> GenAI does not make assignments useless. It makes weak assignments easier to fake and strong assignments more important.
-
-### 7. Ethics And Detection
-
-Three points:
-
-1. AI use can be ethical when it supports learning, is disclosed, and the student remains responsible.
-2. AI use is a problem when it replaces the learning target or hides the student's actual understanding.
-3. AI detectors can raise a question, but should not be treated as proof.
-
-Key line:
-
-> The assessment problem is not only detection. It is learning visibility.
-
-### 8. Practical Assignment Categories
+## Classroom Categories
 
 | Category | Use When | Requirement |
 |---|---|---|
 | AI-Prohibited | independent skill practice or assessment | no AI |
-| AI-Limited | AI can support but not replace learning | disclose use |
+| AI-Limited | AI supports but does not replace learning | disclose use |
 | AI-Allowed | AI workflow literacy is part of the goal | process evidence and verification |
 
-### 9. Capstones, Projects, And AI Quest
+## Best Lines
 
-AI can help students get started with difficult DIY work:
+Use these as anchors:
 
-- idea scope
-- requirements
-- setup
-- configuration
-- debugging
-- documentation
-- test planning
-- presentation structure
+- AI can produce faster than students can understand and faster than teachers can assess.
+- The bottleneck moves from access to information to judgment about information.
+- The new literacy is not just generating output. It is controlling output.
+- AI makes the first draft easier. STEM makes the final answer trustworthy.
+- We cannot ask students to manage AI like professionals until we teach them what professional judgment looks like.
 
-Students still own:
+## Key Files
 
-- design choices
-- safety
-- verification
-- prototype evidence
-- final explanation
-
-Key line:
-
-> AI can lower the barrier to starting. The teacher's job is to make sure it does not lower the requirement to understand.
-
-## Discussion Activity
-
-Prompt:
-
-> Pick one assignment or project students currently do. How could AI help? How could AI break the learning? What evidence would prove the student still understands?
-
-Template:
-
-| Assignment | AI Could Help By | AI Could Break Learning By | Evidence I Need |
-|---|---|---|---|
-|  |  |  |  |
-
-Share-out questions:
-
-- What student thinking must remain visible?
-- What should be AI-prohibited, AI-limited, or AI-allowed?
-- What should students disclose?
-- What evidence would make assessment manageable?
-- What would you change in one assignment next year?
-
-## Suggested Close
-
-Ask:
-
-> What is one assignment or project you can adjust next year so students show their thinking, not just their output?
-
-Final line:
-
-> The goal is not to make students dependent on AI, and it is not to pretend AI is going away. The goal is to help students use powerful tools while remaining accurate, ethical, and responsible for their own thinking.
-
-## Research And Planning Files
-
+- `research/concise_presentation_message.md`
 - `research/recommended_stem_teacher_outline.md`
-- `research/teacher_meeting_outline.md`
-- `research/background_research_packet.md`
-- `research/current_state_high_school_genai.md`
-- `research/gap_analysis.md`
 - `research/teacher_handout_draft.md`
-- `research/teacher_questions_ai_future_ethics_detection.md`
-- `research/capstone_project_ai_support.md`
-- `research/ai_competition_ideas.md`
 - `research/stem_workplace_ai_skills.md`
+- `research/ai_competition_ideas.md`
+- `research/capstone_project_ai_support.md`
 - `research/workplace_ai_candidate_skills_slide_notes.md`
+- `research/background_research_packet.md`
 - `research/source_matrix.md`
 - `research/reference_audit.md`
+
+## Repo Use
+
+Use the README as the short message map. Use the research folder as backup material for slides, teacher questions, source checks, and future AI competition planning.
