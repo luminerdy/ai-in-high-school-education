@@ -94,5 +94,5 @@ Follow-up:
 
 - World Economic Forum, Future of Jobs Report 2025: AI/big data, technological literacy, and cybersecurity are among fast-growing skills; analytical thinking remains a top core skill. https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 - Microsoft Work Trend Index 2026: AI users emphasize quality control, critical thinking, and treating AI output as a starting point rather than a final answer. https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization
-- Financial Times, June 2026: Some employers are adding AI use to interviews by observing how candidates use AI in realistic work scenarios, not just whether they can write prompts. https://www.ft.com/content/b098d3bd-a3cf-415d-932a-fe5a611f8ff8
-- AP, June 2026: Workplace experts continue to emphasize durable human skills such as critical thinking, ethical judgment, empathy, and relationship-building. https://apnews.com/article/0ce88d448f0b7a87c72b6241305a61f2
+- U.S. Department of Education, Artificial Intelligence and the Future of Teaching and Learning: emphasizes human judgment, inspectability, explainability, and overridable AI systems in education. https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf
+- RAND, Uneven Adoption of Artificial Intelligence Tools Among U.S. Teachers and Principals: useful for connecting workforce expectations to the need for teacher guidance and classroom norms. https://www.rand.org/pubs/research_reports/RRA134-25.html

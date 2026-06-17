@@ -14,7 +14,7 @@ The available data varies depending on what is being measured.
 
 Common Sense Media's 2024 high school survey, as reported by Wired, found that about 70% of U.S. teenagers had used at least one generative AI tool. The most common school-related use was homework help, especially brainstorming. Wired also reported that more than 80% of parents said their child's school had not communicated anything about generative AI.
 
-Pew Research Center's 2024 teen data, as reported by multiple outlets, found that 26% of teens ages 13-17 said they had used ChatGPT for schoolwork, up from 13% in 2023. This is narrower than the Common Sense finding because it asks about ChatGPT specifically and schoolwork specifically, not any GenAI use.
+Pew Research Center's 2024 teen data, as reported by multiple outlets, found that 26% of teens ages 13-17 said they had used ChatGPT for schoolwork, up from 13% in 2023. This is narrower than the Common Sense finding because it asks about ChatGPT specifically and schoolwork specifically, not any GenAI use. Use this as a supporting data point unless the original Pew page is available for direct citation.
 
 Interpretation for the presentation:
 
@@ -141,5 +141,5 @@ Slide bullets:
 - TeachAI. "AI in Education Policy and Guidance Tracker." https://www.teachai.org/policy-tracker
 - White House. "Advancing Artificial Intelligence Education for American Youth." April 23, 2025. https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
 - Wired. "Most US Teens Use Generative AI. Most of Their Parents Don't Know." September 18, 2024. https://www.wired.com/story/teens-generative-ai-use-schools-parents
-- Parents.com. "What Teens Say They Do and Don't Use ChatGPT For." January 2025. https://www.parents.com/teens-using-chatgpt-for-school-8778832
+- Pew Research Center teen ChatGPT schoolwork statistic, reported in January 2025 secondary coverage. Use only as a supporting point unless the original Pew page is available for direct citation.
 - PLTW. "Principles of Artificial Intelligence" course outline and course resume, 2026. Local PDFs in `C:\Users\jscot\Downloads\fwpltwaicourseinfo`.

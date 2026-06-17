@@ -30,12 +30,13 @@ Source:
 
 - Common Sense Media, "The Dawn of the AI Era: Teens, Parents, and the Adoption of Generative AI at Home and School," September 18, 2024. https://www.commonsensemedia.org/research/the-dawn-of-the-ai-era-teens-parents-and-the-adoption-of-generative-ai-at-home-and-school
 
-Pew's 2024 teen data, widely reported in January 2025, found that 26% of teens ages 13-17 said they had used ChatGPT for schoolwork, up from 13% in 2023. This is narrower than the Common Sense figure because it asks about ChatGPT specifically and schoolwork specifically.
+Pew's 2024 teen data, widely reported in January 2025, found that 26% of teens ages 13-17 said they had used ChatGPT for schoolwork, up from 13% in 2023. This is narrower than the Common Sense figure because it asks about ChatGPT specifically and schoolwork specifically. Treat this as a supporting point unless the original Pew page is available for direct citation.
 
 Use this carefully:
 
 - Do not compare 70% and 26% as if they measure the same thing.
 - One is any GenAI use; the other is ChatGPT for schoolwork.
+- The Common Sense link is the primary source for broad teen GenAI use; the Pew statistic should be cited through Pew directly if the source page is available, otherwise use secondary coverage with caution.
 
 ### Teacher And Principal Use
 
@@ -340,4 +341,3 @@ The better questions are:
 - What thinking did the student do?
 - What evidence shows the result is reliable?
 - Can the student explain and defend the work?
-

@@ -204,7 +204,7 @@ Categories:
 
 ## Sources
 
-- FTC coverage of AI chatbot inquiry into effects on children and teens: https://www.theverge.com/policy/776545/ftc-ai-chatbot-companion-kids-teens-study
+- AP coverage of FTC inquiry into AI companion chatbots and children/teens: https://apnews.com/article/e78fcc72520f56a4eff90df7ad6220c0
 - NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
 - NIST Generative AI Profile: https://doi.org/10.6028/NIST.AI.600-1
 - White House, "Advancing Artificial Intelligence Education for American Youth," April 23, 2025: https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
