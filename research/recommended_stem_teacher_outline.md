@@ -12,7 +12,9 @@ The goal is not to answer every AI policy question. The goal is to help teachers
 
 ## Core Message
 
-AI makes production easier and evaluation harder. STEM teachers can respond by teaching students to frame problems, verify output, document process, communicate clearly, and defend decisions.
+AI did not create the learning problem. Students have always been able to get too much help, copy work, write many words without understanding, or avoid the hard part of learning. AI changes the scale, speed, polish, and availability.
+
+STEM teachers can respond by teaching students to frame problems, verify output, document process, communicate clearly, and defend decisions.
 
 ## Slide 1: Title And Purpose
 
@@ -158,6 +160,12 @@ Examples of visible thinking:
 Key line:
 
 GenAI does not make assignments useless. It makes weak assignments easier to fake and strong assignments more important.
+
+Bridge line:
+
+The challenge is old. The tool is new.
+
+Use AI to reduce unnecessary friction, not necessary thinking.
 
 ## Slide 8: Ethics And Detection
 

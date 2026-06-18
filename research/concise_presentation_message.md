@@ -10,6 +10,8 @@ Anchor principle:
 
 > AI can help with the work. Humans own the judgment.
 
+The issue is not entirely new. Students have always been able to get too much help, copy work, write many words without understanding, or avoid hard thinking. AI changes the scale, speed, polish, and availability.
+
 ## Thirty-Second Version
 
 "Used AI" is too vague. AI might replace thinking, support thinking, critique thinking, or help manage a workflow. The workplace needs people who can define requirements, use AI appropriately, verify results, communicate clearly, and own decisions. In STEM classes, that means shifting from final product only to visible thinking: assumptions, tests, evidence, revisions, and explanation.
@@ -63,6 +65,8 @@ Replace long explanations with sharper pairs:
 | Teachers cannot rely only on AI detection tools. | Detection is not assessment. |
 | AI creates too much information to process. | AI creates an abundance problem. |
 | Students need to reduce AI output into something useful. | Control the output. |
+| AI did not create the problem of students avoiding learning. | Old problem, new scale. |
+| AI can remove obstacles, but it should not remove the thinking. | Reduce friction, not learning. |
 
 ## Cognitive Overload Point
 

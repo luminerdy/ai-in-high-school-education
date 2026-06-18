@@ -12,6 +12,8 @@ Anchor principle:
 
 > AI can help with the work. Humans own the judgment.
 
+This is not a new learning problem. Students have always been able to get too much help, copy work, write many words without understanding, or avoid the hard part of learning. AI changes the scale, speed, polish, and availability.
+
 For STEM teachers, the practical question is:
 
 > What role did AI play, and what evidence shows the student still understands?
@@ -70,6 +72,8 @@ Use these as anchors:
 - The new literacy is not just generating output. It is controlling output.
 - AI makes the first draft easier. STEM makes the final answer trustworthy.
 - AI can help with the work. Humans own the judgment.
+- AI did not create the learning problem. It exposed and accelerated it.
+- Use AI to reduce unnecessary friction, not necessary thinking.
 - We cannot ask students to manage AI like professionals until we teach them what professional judgment looks like.
 
 ## Key Files
