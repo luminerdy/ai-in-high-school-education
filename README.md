@@ -68,7 +68,7 @@ When AI is allowed, students should show some evidence of thinking:
 Use these as anchors:
 
 - AI can produce faster than students can understand and faster than teachers can assess.
-- The bottleneck moves from access to information to judgment about information.
+- AI can speed up search and synthesis, but humans still judge relevance, correctness, and fit.
 - The new literacy is not just generating output. It is controlling output.
 - AI makes the first draft easier. STEM makes the final answer trustworthy.
 - AI can help with the work. Humans own the judgment.
