@@ -18,6 +18,20 @@ Purpose: Track usable evidence for the presentation, "AI in Education and in the
 | PwC, "2026 Global AI Jobs Barometer" | Vendor/consulting job-ad analysis | Highly AI-exposed jobs show faster skill change; junior roles exposed to AI are more likely to demand senior skills such as leadership and strategic thinking. | Use as a signal that entry-level expectations may rise as AI handles routine work. | Vendor source and global analysis; cite transparently and avoid overclaiming. |
 | NIST, "AI Risk Management Framework" | Federal risk-management framework | Trustworthy AI requires attention to risk across design, development, use, and evaluation; NIST has also published guidance for generative AI risk management. | Use to show that responsible AI workplace skills include risk, privacy, bias, evaluation, and oversight. | Framework is not a job-skills survey; use as responsible AI context. |
 
+## Encouraging Guided Use
+
+Use these sources together to support a balanced argument:
+
+- RAND: AI is already used by some teachers and principals, but guidance is limited and uneven.
+- TeachAI: schools need structured guidance to realize benefits while mitigating risks.
+- Microsoft WorkLab: workplace AI value depends on judgment, quality control, clear intent, and organizational support.
+- WEF: AI/big data and technological literacy are rising, while analytical thinking remains central.
+- U.S. Department of Education: responsible AI use should keep humans in the loop and preserve transparency, safety, equity, and accountability.
+
+Presentation claim:
+
+> The answer to AI misuse is not AI avoidance. It is better AI literacy, clearer boundaries, and stronger evidence of student thinking.
+
 ## Candidate Sources To Verify Next
 
 | Candidate | Why It Matters | Status |

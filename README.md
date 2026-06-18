@@ -71,6 +71,7 @@ Use these as anchors:
 - `research/recommended_stem_teacher_outline.md`
 - `research/teacher_handout_draft.md`
 - `research/stem_workplace_ai_skills.md`
+- `research/case_for_guided_ai_use.md`
 - `research/ai_competition_ideas.md`
 - `research/capstone_project_ai_support.md`
 - `research/workplace_ai_candidate_skills_slide_notes.md`
