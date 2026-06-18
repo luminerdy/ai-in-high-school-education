@@ -6,6 +6,10 @@ Purpose: Capture the shortest useful version of the presentation so the message 
 
 AI can increase output, but useful work still depends on requirements, testing, judgment, communication, and responsibility.
 
+Anchor principle:
+
+> AI can help with the work. Humans own the judgment.
+
 ## Thirty-Second Version
 
 "Used AI" is too vague. AI might replace thinking, support thinking, critique thinking, or help manage a workflow. The workplace needs people who can define requirements, use AI appropriately, verify results, communicate clearly, and own decisions. In STEM classes, that means shifting from final product only to visible thinking: assumptions, tests, evidence, revisions, and explanation.
@@ -53,6 +57,7 @@ Replace long explanations with sharper pairs:
 | Teachers need to know how AI was used before deciding whether it helped or harmed learning. | The role of AI matters. |
 | Students should provide evidence that they verified AI-generated work. | Trust requires tests. |
 | AI can generate a lot of output, but business needs dependable results. | Output is not the product. |
+| AI can support review, feedback, and testing, but people remain accountable. | Humans own the judgment. |
 | AI can support projects by helping students start, debug, and document. | AI lowers the starting barrier. |
 | Students must still explain, defend, and own the work. | Students own the answer. |
 | Teachers cannot rely only on AI detection tools. | Detection is not assessment. |

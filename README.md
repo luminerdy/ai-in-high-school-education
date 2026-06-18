@@ -8,6 +8,10 @@ AI can increase output, but useful work still depends on requirements, domain kn
 
 Students need guided practice using AI without outsourcing their thinking. The workplace needs people who can define the right problem, set quality standards, use AI appropriately, verify results, communicate clearly, and own decisions.
 
+Anchor principle:
+
+> AI can help with the work. Humans own the judgment.
+
 For STEM teachers, the practical question is:
 
 > What role did AI play, and what evidence shows the student still understands?
@@ -65,6 +69,7 @@ Use these as anchors:
 - The bottleneck moves from access to information to judgment about information.
 - The new literacy is not just generating output. It is controlling output.
 - AI makes the first draft easier. STEM makes the final answer trustworthy.
+- AI can help with the work. Humans own the judgment.
 - We cannot ask students to manage AI like professionals until we teach them what professional judgment looks like.
 
 ## Key Files

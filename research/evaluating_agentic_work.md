@@ -6,6 +6,10 @@ Purpose: Define a practical way to evaluate work produced by experts using AI ag
 
 Agentic AI does not remove the need for expert judgment. It changes where expert judgment must be applied.
 
+Anchor principle:
+
+> AI can help with the work. Humans own the judgment.
+
 A better workplace framing:
 
 > AI can increase output, but useful work still depends on requirements, domain knowledge, testing, systems thinking, and accountable quality.
@@ -33,6 +37,8 @@ Businesses do not need more output by itself. They need dependable outcomes:
 - owned by accountable humans
 
 Agents can help create drafts, code, plans, tests, analysis, documentation, and workflows. They do not automatically create a trustworthy system.
+
+The expert's job is to decide whether the work is correct, useful, safe, maintainable, and ready for use.
 
 ## Evaluation Model
 

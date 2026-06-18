@@ -12,6 +12,10 @@ Short version:
 
 > AI output is cheap. Verified, useful, accountable work is valuable.
 
+Anchor principle:
+
+> AI can help with the work. Humans own the judgment.
+
 This applies in three places:
 
 - teachers need students to show learning
@@ -31,6 +35,8 @@ Use one pattern across all three contexts:
 | AI Role | Did AI tutor, brainstorm, draft, test, code, or decide? | What did agents generate, change, test, or automate? | How did the team use AI during the sprint? |
 | Evidence | What proves student understanding? | What proves requirements were met? | What proves the result works? |
 | Ownership | Can the student explain and defend the work? | Who owns release, risk, and maintenance? | Can the team answer judge questions? |
+
+This is the guardrail against overdependence. AI can help generate, review, test, summarize, and critique, but people still define the goal, set the standard, judge the evidence, and accept the outcome.
 
 ## Why This Is Stronger Than "Use AI"
 
