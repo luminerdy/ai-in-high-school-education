@@ -4,11 +4,11 @@ Purpose: Capture the shortest useful version of the presentation so the message 
 
 ## One-Sentence Version
 
-AI makes production easier and evaluation harder, so students need to show how they think, verify, communicate, and take responsibility when AI is available.
+AI can increase output, but useful work still depends on requirements, testing, judgment, communication, and responsibility.
 
 ## Thirty-Second Version
 
-"Used AI" is too vague. AI might replace thinking, support thinking, critique thinking, or help manage a workflow. The workplace needs people who can define problems, use AI appropriately, verify results, communicate clearly, and own decisions. In STEM classes, that means shifting from final product only to visible thinking: assumptions, tests, evidence, revisions, and explanation.
+"Used AI" is too vague. AI might replace thinking, support thinking, critique thinking, or help manage a workflow. The workplace needs people who can define requirements, use AI appropriately, verify results, communicate clearly, and own decisions. In STEM classes, that means shifting from final product only to visible thinking: assumptions, tests, evidence, revisions, and explanation.
 
 ## Five-Slide Version
 
@@ -52,6 +52,7 @@ Replace long explanations with sharper pairs:
 | AI can help students generate answers, but those answers may not demonstrate learning. | Output is not understanding. |
 | Teachers need to know how AI was used before deciding whether it helped or harmed learning. | The role of AI matters. |
 | Students should provide evidence that they verified AI-generated work. | Trust requires tests. |
+| AI can generate a lot of output, but business needs dependable results. | Output is not the product. |
 | AI can support projects by helping students start, debug, and document. | AI lowers the starting barrier. |
 | Students must still explain, defend, and own the work. | Students own the answer. |
 | Teachers cannot rely only on AI detection tools. | Detection is not assessment. |

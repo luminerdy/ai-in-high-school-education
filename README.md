@@ -4,9 +4,9 @@ Planning materials for a discussion with local high school STEM teachers about A
 
 ## Core Message
 
-AI makes production easier and evaluation harder in both school and work.
+AI can increase output, but useful work still depends on requirements, domain knowledge, testing, systems thinking, and accountable quality.
 
-Students need guided practice using AI without outsourcing their thinking. The workplace needs people who can define problems, use AI appropriately, verify results, communicate clearly, and own decisions.
+Students need guided practice using AI without outsourcing their thinking. The workplace needs people who can define the right problem, set quality standards, use AI appropriately, verify results, communicate clearly, and own decisions.
 
 For STEM teachers, the practical question is:
 
@@ -73,6 +73,7 @@ Use these as anchors:
 - `research/recommended_stem_teacher_outline.md`
 - `research/teacher_handout_draft.md`
 - `research/stem_workplace_ai_skills.md`
+- `research/evaluating_agentic_work.md`
 - `research/case_for_guided_ai_use.md`
 - `research/ai_competition_ideas.md`
 - `research/capstone_project_ai_support.md`

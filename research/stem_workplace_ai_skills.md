@@ -10,7 +10,7 @@ The emerging workplace need is a hybrid skill set:
 
 > STEM knowledge + data literacy + software/tool fluency + AI workflow judgment + verification + communication.
 
-AI can produce code, explanations, summaries, test ideas, designs, and analysis. That makes it more important for workers to define the problem, check the result, understand the domain, communicate clearly, and own the final decision.
+AI can produce code, explanations, summaries, test ideas, designs, and analysis. Business value still depends on clear requirements, systems thinking, testing, domain judgment, communication, and ownership.
 
 ## What The Evidence Suggests
 
