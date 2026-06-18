@@ -1,12 +1,14 @@
-# AI In High School Education
+# AI In Education And Work
 
 Planning materials for a discussion with local high school STEM teachers about AI in education, STEM learning, and workplace readiness.
 
 ## Core Message
 
-AI makes production easier and evaluation harder.
+AI makes production easier and evaluation harder in both school and work.
 
-Students need to learn how to use AI without outsourcing their thinking. For STEM teachers, the practical question is:
+Students need guided practice using AI without outsourcing their thinking. The workplace needs people who can define problems, use AI appropriately, verify results, communicate clearly, and own decisions.
+
+For STEM teachers, the practical question is:
 
 > What role did AI play, and what evidence shows the student still understands?
 
