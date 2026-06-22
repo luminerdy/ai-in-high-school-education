@@ -79,6 +79,7 @@ Use these as anchors:
 ## Key Files
 
 - `research/concise_presentation_message.md`
+- `research/monday_slide_draft.md`
 - `research/teacher_business_competition_synthesis.md`
 - `research/recommended_stem_teacher_outline.md`
 - `research/teacher_handout_draft.md`
