@@ -125,7 +125,9 @@ Use:
 
 ## Practical Encouragement Message
 
-The strongest encouragement is not permission. It is structure.
+The strongest encouragement is not permission. It is structure and experience.
+
+Teachers need some hands-on AI experience before they can confidently design AI assignments or evaluate student AI use. Reading about AI is not enough. Policy discussion is not enough. Teachers should use AI on one or two real projects so they see the benefits, limits, failure modes, and judgment requirements directly.
 
 Encourage teachers to try one controlled AI integration:
 
@@ -136,6 +138,19 @@ Encourage teachers to try one controlled AI integration:
 5. Require one short explanation of what the student changed or rejected.
 
 This keeps the task manageable and avoids turning AI use into either a free-for-all or a policing problem.
+
+Suggested teacher practice projects:
+
+- redesign one existing assignment
+- build a small classroom helper
+- use AI to generate and improve test cases
+- create a data-analysis or graphing activity
+- have AI critique student-facing instructions
+- use AI to plan a project, then identify what still needs teacher judgment
+
+Key line:
+
+> Guided student use starts with guided teacher experience.
 
 ## Slide-Ready Framing
 

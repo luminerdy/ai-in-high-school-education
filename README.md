@@ -28,6 +28,7 @@ For STEM teachers, the practical question is:
 | STEM connection | Models, data, assumptions, units, tests, and evidence matter more than ever. |
 | Assignment shift | Finished work is not enough; students must show visible thinking. |
 | Practical guidance | Use AI-prohibited, AI-limited, and AI-allowed categories. |
+| Teacher practice | Teachers need hands-on AI experience with real projects before they can judge student use well. |
 | Projects | AI can reduce friction in capstones, robotics, and app building, but students still own the work. |
 | Close | Change one assignment so students show thinking, not just output. |
 
@@ -74,6 +75,7 @@ Use these as anchors:
 - AI can help with the work. Humans own the judgment.
 - AI did not create the learning problem. It exposed and accelerated it.
 - Use AI to reduce unnecessary friction, not necessary thinking.
+- Guided student use starts with guided teacher experience.
 - We cannot ask students to manage AI like professionals until we teach them what professional judgment looks like.
 
 ## Key Files

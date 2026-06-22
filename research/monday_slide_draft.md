@@ -142,6 +142,32 @@ Discussion prompt:
 
 > Pick one assignment or project. How could AI help? How could AI break the learning? What evidence would prove the student still understands?
 
+## Optional Slide: Teachers Need Hands-On Experience
+
+Main point:
+
+> You cannot evaluate AI well from the sidelines.
+
+Speaker notes:
+
+- There is a lot of talk, fear, and policy discussion.
+- That matters, but it is not enough.
+- Teachers need to roll up their sleeves and use AI on one or two real projects.
+- Until you try a real workflow, it is hard to understand what AI can do, where it fails, and what students will experience.
+
+Suggested teacher project:
+
+- redesign one assignment
+- plan a small lab or project
+- build a simple app or data workflow
+- create test cases for a lesson
+- use AI to critique student-facing instructions
+- document what helped, what failed, and what still required human judgment
+
+Key line:
+
+> Guided student use starts with guided teacher experience.
+
 ## Optional Slide: Projects, Capstones, And AI Quest
 
 Main point:
